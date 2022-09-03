@@ -1,0 +1,5 @@
+{
+    "C_Cpp.default.includePath": [
+        "/usr/local/cuda-11.7/targets/x86_64-linux/include/"
+    ]
+}
