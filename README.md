@@ -17,5 +17,7 @@ in derictories:
 
 there are files:
 > CUDAexmpl - program executable file 
+> 
 > runTestsCPU - example of testing CPU part
+> 
 > runTestsGPU - example of testing GPU part
